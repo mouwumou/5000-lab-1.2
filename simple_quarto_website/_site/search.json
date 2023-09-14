@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#deserunt-aliquip-laborum-et-amet-adipisicing.",
+    "href": "about.html#deserunt-aliquip-laborum-et-amet-adipisicing.",
+    "title": "About",
+    "section": "Deserunt aliquip laborum et amet adipisicing.",
+    "text": "Deserunt aliquip laborum et amet adipisicing.\n\nOfficia non excepteur officia ad commodo mollit.\n\n\nAute ea labore sunt aliqua Lorem ipsum."
+  },
+  {
+    "objectID": "about.html#duis-ut-ex-sint-qui-voluptate-sunt-duis.",
+    "href": "about.html#duis-ut-ex-sint-qui-voluptate-sunt-duis.",
+    "title": "About",
+    "section": "Duis ut ex sint qui voluptate sunt duis.",
+    "text": "Duis ut ex sint qui voluptate sunt duis.\n\nAd irure deserunt ex excepteur consectetur esse occaecat sit ipsum consectetur non.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "slides/slides.html#first-slides",
+    "href": "slides/slides.html#first-slides",
+    "title": "slides",
+    "section": "First Slides",
+    "text": "First Slides\n\nOccaecat aute consequat sint est in voluptate tempor enim labore ad exercitation eu id quis (Provost and Fawcett 2013).\nFugiat do cupidatat excepteur sunt eiusmod qui voluptate veniam pariatur minim qui."
+  },
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "slides",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "slides",
+    "section": "Going to sleep",
+    "text": "Going to sleep"
+  },
+  {
+    "objectID": "slides/slides.html#reference",
+    "href": "slides/slides.html#reference",
+    "title": "slides",
+    "section": "Reference",
+    "text": "Reference\n\n\n\n\n\n\nProvost, Foster, and Tom Fawcett. 2013. “Data Science and Its Relationship to Big Data and Data-Driven Decisio n Making.” Big Data 1 (1): 51–59."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nAnim ea proident voluptate sunt magna reprehenderit dolore irure cillum nisi occaecat occaecat consequat consequat. Commodo sit cillum tempor do reprehenderit excepteur cupidatat ullamco. Tempor commodo irure nisi sunt laboris nulla do est cillum laboris irure aute. Excepteur tempor do laboris magna.\nEsse sint sit exercitation voluptate cillum. Deserunt id cupidatat tempor fugiat velit amet est cupidatat laboris. Cupidatat duis enim eu reprehenderit laboris dolore pariatur esse id exercitation ea cupidatat. Consequat sit magna dolor esse irure magna enim consequat magna culpa irure reprehenderit fugiat dolore. Adipisicing sunt eu eiusmod sunt cupidatat eu veniam id nulla et laboris in consectetur veniam.\nCillum reprehenderit esse et enim ea deserunt nostrud ipsum. Irure aliqua sunt consequat consequat dolor excepteur exercitation occaecat voluptate aliquip ipsum. Laboris aliqua incididunt consequat est.\nPariatur sunt eiusmod anim proident magna proident ex cillum aliquip culpa cupidatat Lorem incididunt qui. Consequat eiusmod consequat officia deserunt pariatur est id pariatur eiusmod duis officia. Ipsum enim aute ad reprehenderit officia Lorem tempor pariatur in cupidatat anim. Lorem do culpa aliquip eu ad quis velit ullamco fugiat laboris magna velit labore mollit.\n\\(P(A|B)=\\frac{P(B|A)\\times P(A)}{P(B)}\\)\n\\[\\begin{align}\\int (\\sin^4 x)dx &=  \\int (\\sin^2 x)^2dx\\\\&=\\int (\\frac{1- \\cos 2x}{2})^2dx\\\\&=\\frac{1}{4}\\int(1+\\cos^2 2x-2\\cos 2x)dx\\\\&=\\frac{1}{4}\\int(1+(\\frac{1+\\cos 4x}{2})-2\\cos 2x)dx\\\\&=\\frac{1}{4}(\\frac{3}{2}x+\\frac{1}{8}\\sin 4x-\\sin 2x) \\end{align}\\]\nEiusmod aute consequat aliquip aliquip. Eiusmod officia aliquip nostrud laboris anim magna dolore. Non deserunt reprehenderit incididunt cupidatat ea proident. Voluptate minim ipsum officia officia eu consectetur voluptate veniam officia sint est velit aute. Fugiat quis Lorem excepteur reprehenderit elit non.1\nVideo\ngraph TD;\n      A--&gt;B;\n      A--&gt;C;\n      B--&gt;D;\n      C--&gt;D;\nEu laboris dolore aliqua do. Cupidatat eiusmod anim cillum eu elit (Dhar 2013). Et duis aliqua non deserunt fugiat. Occaecat minim dolor velit eu sint nostrud incididunt sit. Ea magna magna nisi pariatur id. Mollit consequat excepteur commodo cupidatat irure (Provost and Fawcett 2013)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a foot note.↩︎"
+  }
+]

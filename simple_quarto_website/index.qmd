@@ -1,0 +1,75 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+<h1>A very professional website header</h1>
+
+<h2>This is a simple section of quarto website</h2>
+
+<h3>Here is a a simple h3 paragraph.</h3>
+
+<p>Anim ea proident voluptate sunt magna reprehenderit dolore irure cillum nisi occaecat occaecat consequat consequat. Commodo sit cillum tempor do reprehenderit excepteur cupidatat ullamco. Tempor commodo irure nisi sunt laboris nulla do est cillum laboris irure aute. Excepteur tempor do laboris magna.</p>
+
+<p>Esse sint sit exercitation voluptate cillum. Deserunt id cupidatat tempor fugiat velit amet est cupidatat laboris. Cupidatat duis enim eu reprehenderit laboris dolore pariatur esse id exercitation ea cupidatat. Consequat sit magna dolor esse irure magna enim consequat magna culpa irure reprehenderit fugiat dolore. Adipisicing sunt eu eiusmod sunt cupidatat eu veniam id nulla et laboris in consectetur veniam.</p>
+
+<h3>Exercitation do ea eu eu consectetur ea commodo Lorem culpa ipsum sunt ullamco ea.</h3>
+
+<h2>Quis officia do exercitation nulla reprehenderit velit.</h2>
+
+<h3>Culpa id do commodo labore mollit magna labore.</h3>
+
+<p>Cillum reprehenderit esse et enim ea deserunt nostrud ipsum. Irure aliqua sunt consequat consequat dolor excepteur exercitation occaecat voluptate aliquip ipsum. Laboris aliqua incididunt consequat est.</p>
+
+<p>Pariatur sunt eiusmod anim proident magna proident ex cillum aliquip culpa cupidatat Lorem incididunt qui. Consequat eiusmod consequat officia deserunt pariatur est id pariatur eiusmod duis officia. Ipsum enim aute ad reprehenderit officia Lorem tempor pariatur in cupidatat anim. Lorem do culpa aliquip eu ad quis velit ullamco fugiat laboris magna velit labore mollit.</p>
+
+<ul>
+    <li>Sint aliqua ipsum occaecat et.</li>
+    <li>Ipsum enim dolor est anim nisi elit irure in reprehenderit sit.</li>
+</ul>
+
+<h3>Incididunt commodo aute voluptate amet officia.</h3>
+
+<table>
+    <tr>
+        <td>Occaecat laboris cupidatat id cupidatat aliqua nulla aliqua consequat pariatur minim irure. Voluptate adipisicing amet enim ea minim occaecat id labore tempor. Elit deserunt eiusmod ea fugiat deserunt do eiusmod pariatur. Sint dolor aute eu laborum pariatur reprehenderit est excepteur consectetur mollit ad est irure adipisicing. Aliqua ad reprehenderit magna tempor id consectetur duis. Non qui velit ut ea deserunt magna enim.</td>
+        <td>Laborum consectetur irure ex duis incididunt adipisicing est tempor pariatur laboris ea non officia id. Adipisicing irure laboris anim aliquip veniam adipisicing aliqua duis. Nostrud excepteur minim qui est mollit aute dolor duis eiusmod sint. Deserunt quis ut incididunt ut cillum elit proident culpa elit.</td>
+    </tr>
+</table>
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $20     |
+| February | $30     |
+| March    | $40     |
+
+$P(A|B)=\frac{P(B|A)\times P(A)}{P(B)}$
+
+$$\begin{align}\int (\sin^4 x)dx &=  \int (\sin^2 x)^2dx\\&=\int (\frac{1- \cos 2x}{2})^2dx\\&=\frac{1}{4}\int(1+\cos^2 2x-2\cos 2x)dx\\&=\frac{1}{4}\int(1+(\frac{1+\cos 4x}{2})-2\cos 2x)dx\\&=\frac{1}{4}(\frac{3}{2}x+\frac{1}{8}\sin 4x-\sin 2x) \end{align}$$
+
+
+<p>Eiusmod aute consequat aliquip aliquip. Eiusmod officia aliquip nostrud laboris anim magna dolore. Non deserunt reprehenderit incididunt cupidatat ea proident. Voluptate minim ipsum officia officia eu consectetur voluptate veniam officia sint est velit aute. Fugiat quis Lorem excepteur reprehenderit elit non.[^1]</p>
+
+[^1]: This is a foot note.
+
+> Labore ex ullamco incididunt tempor cillum deserunt non sunt aute consequat reprehenderit ex duis aute.
+> Veniam et eiusmod Lorem elit duis quis consectetur aliqua nostrud minim eu cillum pariatur ipsum.
+
+![image](./images/part-blurry-image.webp){width="350px"}
+![image](./images/what_is_image_Processing.avif){width="350px"}
+
+![](./images/production_id_5083058%20(2160p).mp4)
+
+```{mermaid}
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+<p>Eu laboris dolore aliqua do. Cupidatat eiusmod anim cillum eu elit [@dhar2013data]. Et duis aliqua non deserunt fugiat. Occaecat minim dolor velit eu sint nostrud incididunt sit. Ea magna magna nisi pariatur id. Mollit consequat excepteur commodo cupidatat irure [@provost2013data].</p>
